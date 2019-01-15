@@ -1,4 +1,4 @@
-# 99 个风格写作练习
+# 99 个写作风格练习
 
 
 style.LearnWritingTheHardWay.cn
